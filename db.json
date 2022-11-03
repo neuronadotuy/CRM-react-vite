@@ -1,0 +1,26 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Nico",
+      "empresa": "Neurona",
+      "email": "nico@neurona.uy",
+      "telefono": "123456789",
+      "notas": "neuro",
+      "id": "8xJatYxgmUmbxykQHmWDX"
+    }
+  ]
+}
